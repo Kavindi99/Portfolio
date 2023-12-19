@@ -1308,6 +1308,11 @@ img {
     padding: 0;
   }
 
+
+  .nav__link{
+    font-size: var(--font-medium);
+  }
+
   .home__blob{
     width: 320px;
   }
